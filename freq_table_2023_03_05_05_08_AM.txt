@@ -1,0 +1,41 @@
+Frequency Sweep Report File 2023_03_05_05_08_AM
+Frequency table for LAT = 0 85C Model
+; Slow 1200mV 85C Model Fmax Summary                       ;
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 29.36 MHz ; 29.36 MHz       ; CPUCLK              ;      ;
+; 61.64 MHz ; 61.64 MHz       ; CLK                 ;      ;
+; 85.29 MHz ; 85.29 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+# Halted at 276040 time and ran for      13801 cycles.
+Frequency table for LAT = 2 85C Model
+; Slow 1200mV 85C Model Fmax Summary                       ;
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 24.83 MHz ; 24.83 MHz       ; CPUCLK              ;      ;
+; 51.18 MHz ; 51.18 MHz       ; CLK                 ;      ;
+; 88.46 MHz ; 88.46 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+# Halted at 552120 time and ran for      27605 cycles.
+Frequency table for LAT = 6 85C Model
+; Slow 1200mV 85C Model Fmax Summary                       ;
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 26.3 MHz  ; 26.3 MHz        ; CPUCLK              ;      ;
+; 52.78 MHz ; 52.78 MHz       ; altera_reserved_tck ;      ;
+; 55.1 MHz  ; 55.1 MHz        ; CLK                 ;      ;
++-----------+-----------------+---------------------+------+
+# Halted at 1.1042e+06 time and ran for      55209 cycles.
+Frequency table for LAT = 10 85C Model
+; Slow 1200mV 85C Model Fmax Summary                       ;
++-----------+-----------------+---------------------+------+
+; Fmax      ; Restricted Fmax ; Clock Name          ; Note ;
++-----------+-----------------+---------------------+------+
+; 21.67 MHz ; 21.67 MHz       ; CPUCLK              ;      ;
+; 44.43 MHz ; 44.43 MHz       ; CLK                 ;      ;
+; 69.08 MHz ; 69.08 MHz       ; altera_reserved_tck ;      ;
++-----------+-----------------+---------------------+------+
+# Halted at 1.65628e+06 time and ran for      82813 cycles.
